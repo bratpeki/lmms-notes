@@ -16,7 +16,7 @@ https://github.com/LMMS/lmms/pull/7477:
 
 TODO:
 
-[ ] Address the issue of cutting across a pitch-bent note
-[ ] Address the issue of BB clip cutting ambiguity
+- [ ] Address the issue of cutting across a pitch-bent note
+- [ ] Address the issue of BB clip cutting ambiguity
 
 ---
