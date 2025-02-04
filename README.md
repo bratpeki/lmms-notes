@@ -20,3 +20,7 @@ TODO:
 - [ ] Address the issue of BB clip cutting ambiguity
 
 ---
+
+https://github.com/LMMS/lmms/pull/7636:
+
+- Not all loudness displays use the same label (dB, dBFS, dBv)
