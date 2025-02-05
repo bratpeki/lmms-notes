@@ -1,0 +1,3 @@
+https://github.com/LMMS/lmms/pull/7636:
+
+- Not all loudness displays use the same label (dB, dBFS, dBv)
