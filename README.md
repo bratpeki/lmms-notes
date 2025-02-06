@@ -8,3 +8,7 @@ Nothing important to see if you're not a tester or developer.
 - [ ] It would be nice if a knife tool applied to a clip a selection was previously made would invalidate the selection and make the cut (#7477)
 - [ ] https://github.com/LMMS/lmms/issues/5940 (Already existing, but became prominent in #7477)
 - [ ] Not all loudness displays use the same label (dB, dBFS, dBv) (#7636)
+
+# Documentation info
+
+- "Esc" disables selections
