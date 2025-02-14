@@ -9,6 +9,9 @@ Nothing important to see if you're not a tester or developer.
 - [ ] https://github.com/LMMS/lmms/issues/5940 (Already existing, but became prominent in #7477)
 - [ ] Not all loudness displays use the same label (dB, dBFS, dBv) (#7636)
 
+- [ ] Empty MIDI clips don't display the clip name
+- [ ] Clips are placed on the 1 bar grid, independent of the quantization set
+
 # Documentation info
 
 - "Esc" disables selections
