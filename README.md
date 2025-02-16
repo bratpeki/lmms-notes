@@ -3,9 +3,9 @@ Nothing important to see if you're not a tester or developer.
 
 # List of PRs
 
-- ~~ https://github.com/lmms/lmms/pull/7444 ~~
+- ~~https://github.com/lmms/lmms/pull/7444~~
 - https://github.com/lmms/lmms/pull/7477
-- ~~ https://github.com/LMMS/lmms/pull/7366 ~~
+- ~~https://github.com/LMMS/lmms/pull/7366~~
 	- https://github.com/lmms/lmms/pull/7695
 - https://github.com/LMMS/lmms/pull/7636
 
