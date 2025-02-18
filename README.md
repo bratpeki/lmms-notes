@@ -8,11 +8,12 @@ Nothing important to see if you're not a tester or developer.
 - ~~https://github.com/LMMS/lmms/pull/7366~~
 	- https://github.com/lmms/lmms/pull/7695
 - https://github.com/LMMS/lmms/pull/7636
+- https://github.com/LMMS/lmms/pull/7700
+- https://github.com/LMMS/lmms/pull/7525
+- https://github.com/LMMS/lmms/pull/7679
 
 Future PRs
 
-- https://github.com/LMMS/lmms/pull/7525
-- https://github.com/LMMS/lmms/pull/7679
 - https://github.com/LMMS/lmms/pull/7641
 
 # Noticed issues
@@ -23,6 +24,7 @@ Future PRs
 - [ ] https://github.com/LMMS/lmms/issues/5940 (Already existing, but became prominent in #7477)
 - [ ] "Clear all notes" cannot be applied to multiple MIDI clips
 - [ ] Not all loudness displays use the same label (dB, dBFS, dBv) (#7636)
+- [ ] Are "--- Factory files ---" necessary? (#7700)
 
 - [ ] Empty MIDI clips don't display the clip name
 - [ ] Clips are placed on the 1 bar grid, independent of the quantization set
