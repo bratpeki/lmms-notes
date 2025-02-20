@@ -37,6 +37,7 @@ This info might be of use when making future PR plans.
 - [ ] The volume knobs don't change by the same amount as the mixer faders (#7636)
 - [ ] When shrinked, Equalizer goes over the bottom of the window (#7636)
 - [ ] Balance in LOMM is in dB (#7636)
+- [ ] Crossover EQ UI is bugged (#7636)
 
 - [ ] Flickering dot in Vectorscope
 - [ ] Empty MIDI clips don't display the clip name
