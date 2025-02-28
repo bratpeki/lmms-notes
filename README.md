@@ -46,3 +46,4 @@ This info might be of use when making future PR plans.
 # Documentation info
 
 - "Esc" disables selections
+- `XDG_CURRENT_DESKTOP` (https://github.com/LMMS/lmms/pull/7679)
