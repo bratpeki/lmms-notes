@@ -36,12 +36,13 @@ This info might be of use when making future PR plans.
 - [ ] Not all loudness displays use the same label (dB, dBFS, dBv) (#7636)
 - [ ] The volume knobs don't change by the same amount as the mixer faders (#7636)
 - [ ] When shrinked, Equalizer goes over the bottom of the window (#7636)
-- [ ] Balance in LOMM is in dB (#7636)
 - [ ] Crossover EQ UI is bugged (#7636)
 
-- [ ] Flickering dot in Vectorscope
+- [ ] Shift-dragging new notes links their automation curves (#7759)
+
+- [ ] Tiny flickering dot in the center of Vectorscope after any change
 - [ ] Empty MIDI clips don't display the clip name
-- [ ] Clips are placed on the 1 bar grid, independent of the quantization set
+- [ ] Clips are placed on the 1 bar grid in the Song-Editor, independent of the quantization set
 
 # Documentation info
 
