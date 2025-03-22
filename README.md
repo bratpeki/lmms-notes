@@ -30,7 +30,7 @@ This info might be of use when making future PR plans.
   - Alternatively, introduce bulk cutting
 - [ ] It would be nice if a knife tool applied to a clip a selection was previously made would invalidate the selection and make the cut (#7477)
 - [ ] TextBox for resizing pops up at the end of the clip, even when it's out of bounds (#7477)
-- [ ] The knife marker moves when zooming (#7477)
+- ~~[ ] The knife marker moves when zooming (#7477)~~
 - [ ] https://github.com/LMMS/lmms/issues/5940 (Already exists, but became prominent in #7477)
 
 - [ ] Not all loudness displays use the same label (dB, dBFS, dBv) (#7636)
@@ -41,7 +41,7 @@ This info might be of use when making future PR plans.
 - [ ] Shift-dragging new notes links their automation curves (#7759)
 
 - [ ] Tiny flickering dot in the center of Vectorscope after any change
-- [ ] Empty MIDI clips don't display the clip name
+- ~~[ ] Empty MIDI clips don't display the clip name~~
 - [ ] Clips are placed on the 1 bar grid in the Song-Editor, independent of the quantization set
 
 # Documentation info
